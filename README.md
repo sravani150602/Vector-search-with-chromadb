@@ -1,4 +1,4 @@
-# Vector-search-with-chromadb
+
 # Vector Search with ChromaDB
 
 This notebook demonstrates how to use **ChromaDB**, a modern vector database, for storing and querying high-dimensional embeddings. The project showcases how semantic similarity search can be used with a small sample of product descriptions.
